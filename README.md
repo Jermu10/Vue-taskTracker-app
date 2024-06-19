@@ -1,19 +1,7 @@
-# task-tracker
+Practice Task tracker app with VueJs(v3) and JSON-server. Credits to Traversy Media.
 
-## Project setup
-```
-npm install
-```
+npm i
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+npm run backend
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm run serve --> http://localhost:8080
